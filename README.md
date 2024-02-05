@@ -2,11 +2,12 @@
 
 Eu sou Cintia Sabrina!
 
-Sou estudante de Engenharia de Software
-![CintiaSabrina GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+Sou estudante de Engenharia de Software. 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CintiaSabrina&layout=compact)](https://github.com/CintiaSabrina/github-readme-stats)
+[![CintiaSabrina GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CintiaSabrina&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+![CintiaSabrina GitHub stats](https://github-readme-stats.vercel.app/api?username=CintiaSabrina&show_icons=true&theme=tokyonight)
 
 Tecnologias em desenvolvimento:
 
